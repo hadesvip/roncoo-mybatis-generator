@@ -12,3 +12,9 @@
 
 2017-02-13 修改源码DefaultCommentGenerator类，增加数据库的字段注释。
 
+
+
+#wiki
+# 安装GnuPG
+    * http://c.biancheng.net/view/4832.html
+    密码 wangyong   
